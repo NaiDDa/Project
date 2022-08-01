@@ -107,5 +107,3 @@ your browser open `http://localhost:3000/`
 - 아직 더 추가 하고싶은 기능 <br/>
   - 쉽게 반응형을 해주기 위한 전역 설정 <br/>
   - useCallback,useMemo를 이용한 최적화 작업 <br/>
-
-## by 김승환([KimKyeongHo](https://github.com/NaiDDa))
